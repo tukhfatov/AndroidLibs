@@ -1,7 +1,7 @@
 # AndroidLibs
 ---
 
-[StanfordAndroidLibrary](http://web.stanford.edu/class/cs193a/lib/) - Written by Marty Stepp
+[StanfordAndroidLibrary](http://web.stanford.edu/class/cs193a/lib/) - Make Android eazzzyyyy
 
 [Butterknife](http://jakewharton.github.io/butterknife/) - Field and method binding for Android views
 
